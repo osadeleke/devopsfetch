@@ -95,7 +95,7 @@ devopsfetch [-h] [-p [PORT]] [-d [CONTAINER]] [-n [DOMAIN]] [-u [USER]] [-t TIME
 
 9. Display activities in the last hour:
    ```
-   devopsfetch -t "1 hour ago"
+   devopsfetch -t "2024-12-31"
    ```
 
 ## Continuous Monitoring
